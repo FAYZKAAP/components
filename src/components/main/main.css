@@ -1,0 +1,23 @@
+.hero {
+    text-align: center;
+    margin: 100px 0;
+}
+.hero2 {
+    text-align: center;
+    margin: 100px 0;
+}
+h2 {
+    font-weight: 700;
+    font-size: 40px;
+line-height: 100%;
+color: #2F327D;
+}
+.ota1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 100px 0;
+}
+.hero4 {
+    text-align: center;
+}
